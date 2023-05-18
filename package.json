@@ -1,7 +1,7 @@
 {
   "name": "ecommerce-shop",
   "version": "0.1.0",
-  "homepage":"httls://Aldiramadhan271.github.io/ecommerce-fake-store",
+  "homepage":"https://Aldiramadhan271.github.io/ecommerce-fake-store",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
